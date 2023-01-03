@@ -14,11 +14,20 @@ GM Fabric SDK for Admin Capability services
 
 #### chaincode
 
+- [ ] lifecycle
+
 #### peer
+
+- [ ] new peer
 
 #### orderer
 
-#### msp
+- [ ] new orderer
+
+#### tools
+
+- [ ] cryptogen
+- [ ] configtxgen
 
 ## 使用许可
 fabric-admin-sdk-gm is licensed under Mulan PSL v2.
