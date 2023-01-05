@@ -75,5 +75,6 @@ func (id *signingIdentity) Credentials() []byte {
 }
 
 func (id *signingIdentity) Sign(message []byte) ([]byte, error) {
+
 	return id.sign(message)
 }
